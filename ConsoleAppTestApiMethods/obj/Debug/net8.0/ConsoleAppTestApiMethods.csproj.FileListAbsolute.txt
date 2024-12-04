@@ -1,0 +1,17 @@
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\ConsoleAppTestApiMethods.exe
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\ConsoleAppTestApiMethods.deps.json
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\ConsoleAppTestApiMethods.runtimeconfig.json
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\ConsoleAppTestApiMethods.dll
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\ConsoleAppTestApiMethods.pdb
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.csproj.AssemblyReference.cache
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.AssemblyInfoInputs.cache
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.AssemblyInfo.cs
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleA.789BEDCB.Up2Date
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.dll
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\refint\ConsoleAppTestApiMethods.dll
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.pdb
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.genruntimeconfig.cache
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ref\ConsoleAppTestApiMethods.dll
