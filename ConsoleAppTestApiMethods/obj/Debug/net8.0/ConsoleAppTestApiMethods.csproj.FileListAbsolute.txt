@@ -15,3 +15,5 @@ C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\Console
 C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.pdb
 C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.genruntimeconfig.cache
 C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ref\ConsoleAppTestApiMethods.dll
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\obj\Debug\net8.0\ConsoleAppTestApiMethods.sourcelink.json
+C:\Users\Пользователь\RiderProjects\ConsoleAppTestApiMethods\ConsoleAppTestApiMethods\bin\Debug\net8.0\HtmlAgilityPack.dll

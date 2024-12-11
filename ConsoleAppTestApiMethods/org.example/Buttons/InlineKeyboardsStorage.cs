@@ -10,6 +10,21 @@ public class InlineKeyboardsStorage
         {
             InlineKeyboardButton.WithCallbackData(InlineButtonsStorage.GetCurrentExchangeRate.Name,
                 InlineButtonsStorage.GetCurrentExchangeRate.CallBackData),
-        }
+        },
+        new[]
+        {
+            InlineKeyboardButton.WithCallbackData(InlineButtonsStorage.ShowTop250Movies.Name,
+                InlineButtonsStorage.ShowTop250Movies.CallBackData),
+        },
+        new[]
+        {
+        InlineKeyboardButton.WithCallbackData(InlineButtonsStorage.ShowPostById.Name,
+        InlineButtonsStorage.ShowPostById.CallBackData),
+        },
+        new[]
+        {
+            InlineKeyboardButton.WithCallbackData(InlineButtonsStorage.ShowPostAll.Name,
+                InlineButtonsStorage.ShowPostAll.CallBackData),
+        },
     });
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppTestApiMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b48fb4e6d52bb0bc511443f3c519ce52ad35d51")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppTestApiMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppTestApiMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,4 @@
-﻿
-using ConsoleAppTestApiMethods.org.example.statemachine;
+﻿using ConsoleAppTestApiMethods.org.example.statemachine;
 using ConsoleAppTetsBot;
 using Telegram.Bot;
 using Telegram.Bot.Exceptions;
@@ -24,8 +23,6 @@ public class BotHandlers
         int messageId = 0;
         string textFromUser = "";
 
-        InputFile photo = null;
-
         bool canRoute = false;
 
         switch (update.Type)
@@ -38,13 +35,6 @@ public class BotHandlers
                     messageId = update.Message.MessageId;
                     textFromUser = update.Message.Text;
                 }
-                
-                /*else if (update.Message.Photo != null)
-                {
-                    chatId: update.Message.Chat.Id,
-                    photo = new InputFileId(update.Message.Photo.Last().FileId);
-
-                }*/
 
                 break;
 
@@ -72,11 +62,6 @@ public class BotHandlers
                     text: botTextMessage.Text,
                     replyMarkup: botTextMessage.InlineKeyboardMarkup,
                     cancellationToken: cancellationToken);
-
-                /*if (photo != null)
-                {
-                    await Task.Run(() => _chatsRouter.RoutePhoto(chatId, photo, botClient), cancellationToken);
-                }*/
             }
             catch (Exception e)
             {
